@@ -1,7 +1,7 @@
-### Hi there 👋 
-## I am Alex Meza
-
+# Hello! 👋 I am Alex Meza
+---
 - 🔭 I’m currently working at Rescue Agency
+- Learn more about my work 
 - 💬 Ask me about JavaScript, React, Babylon.js, PHP
 - 📫 How to reach me: mezawebdev@gmail.com
 
