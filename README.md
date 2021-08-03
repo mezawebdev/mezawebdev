@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+## I am Alex Meza
+
+- 🔭 I’m currently working at Rescue Agency
+- 💬 Ask me about JavaScript, React, Babylon.js, PHP
+- 📫 How to reach me: mezawebdev@gmail.com
+
 
 <!--
 **mezawebdev/mezawebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
