@@ -1,3 +1,5 @@
+![Alex Meza](https://assets.codepen.io/731234/ezgif-2-4517b132d37a-min.gif)
+
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Full stack dev</h3>
 
