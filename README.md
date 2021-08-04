@@ -1,4 +1,4 @@
-<p align="center">![Alex Meza](https://github.com/mezawebdev/mezawebdev/blob/main/banner.gif)</p>
+<p align="center"><img src="https://assets.codepen.io/731234/ezgif-2-4517b132d37a-min.gif" width="1024" /></p>
 
 <h1 align="center"></h1>
 
