@@ -1,4 +1,4 @@
-<p align="center"><img src="https://assets.codepen.io/731234/ezgif-2-4517b132d37a-min.gif" width="1024" /></p>
+<p align="center"><img src="https://assets.codepen.io/731234/ezgif-2-4517b132d37a-min.gif" /></p>
 
 <h1 align="center"></h1>
 
