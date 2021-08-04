@@ -1,7 +1,6 @@
 ![Alex Meza](https://assets.codepen.io/731234/ezgif-2-4517b132d37a-min.gif)
 
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Full stack dev</h3>
+<h1 align="center"></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
