@@ -2,7 +2,7 @@
 
 <h1 align="center"></h1>
 
-- 🔭 I’m currently working at [Rescue Agency](https://rescueagency.com)
+- 🔭 I’m currently working at @Rescue Agency
 
 - 👨‍💻 Learn more about me on my website: [http://alexmeza.me](http://alexmeza.me)
 
