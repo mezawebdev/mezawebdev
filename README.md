@@ -6,7 +6,7 @@
 
 - 👨‍💻 Learn more about me on my website: [http://alexmeza.me](http://alexmeza.me)
 
-- 💬 Ask me about **react, javascript, node.js, babylon.js**
+- 💬 Ask me about **react, javascript, vue.js, node.js, babylon.js**
 
 - 📫 How to reach me **mezawebdev@gmail.com**
 
