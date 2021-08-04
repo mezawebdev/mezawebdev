@@ -2,6 +2,14 @@
 
 <h1 align="center"></h1>
 
+- 🔭 I’m currently working at **Rescue Agency**
+
+- 👨‍💻 Learn more about me on my website: [http://alexmeza.me](http://alexmeza.me)
+
+- 💬 Ask me about **react, javascript, node.js, babylon.js**
+
+- 📫 How to reach me **mezawebdev@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mezawebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mezawebdev" height="30" width="40" /></a>
