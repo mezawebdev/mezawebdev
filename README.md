@@ -1,4 +1,4 @@
-<p align="center"><img src="https://assets.codepen.io/731234/ezgif-2-4517b132d37a-min.gif" /></p>
+<p align="center"><img src="https://github.com/mezawebdev/mezawebdev/blob/main/banner.gif" /></p>
 
 <h1 align="center"></h1>
 
