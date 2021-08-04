@@ -1,4 +1,4 @@
-<span align="center">![Alex Meza](https://github.com/mezawebdev/mezawebdev/blob/main/banner.gif)</span>
+<p align="center">![Alex Meza](https://github.com/mezawebdev/mezawebdev/blob/main/banner.gif)</p>
 
 <h1 align="center"></h1>
 
