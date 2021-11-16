@@ -2,7 +2,7 @@
 
 <h1 align="center"></h1>
 
-- 👨‍💻 Learn more about me on my website: [http://alexmeza.me](http://alexmeza.me)
+- 👨‍💻 Learn more about me on my website: [http://alexmeza.io](http://alexmeza.io)
 
 - 💬 Ask me about **react, javascript, vue.js, node.js, babylon.js**
 
