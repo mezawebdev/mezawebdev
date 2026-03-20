@@ -4,8 +4,8 @@
 
 ---
 
-**Tools I'm into:** TypeScript, React, Vue, Next.js, Nuxt, PHP/Laravel
+<p align="center"><b>Tools I'm into:</b> TypeScript, React, Vue, Next.js, Nuxt, PHP/Laravel</p>
 
-**Currently exploring:** Agentic engineering, AI-augmented workflows, Claude Code
+<p align="center"><b>Currently exploring:</b> Agentic engineering, AI-augmented workflows, Claude Code</p>
 
-**Connect with me:** [LinkedIn](https://linkedin.com/in/mezawebdev) | mezawebdev@gmail.com
+<p align="center"><b>Connect with me:</b> <a href="https://linkedin.com/in/mezawebdev">LinkedIn</a> | mezawebdev@gmail.com</p>
