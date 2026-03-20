@@ -1,6 +1,6 @@
 <p align="center"><img width="800" src="https://github.com/mezawebdev/mezawebdev/blob/main/banner.svg" /></p>
 
-**Software crafter.** I like clean architecture, thoughtful UI, and building things that feel right.
+<p align="center"><b>Software crafter.</b> I like clean architecture, thoughtful UI, and building things that feel right.</p>
 
 ---
 
