@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="800" height="150">
+  <title>Alex Meza - Senior Software Engineer</title>
+  <defs>
+    <filter id="bxl" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <filter id="blg" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="25"/>
+    </filter>
+    <filter id="bmd" x="-25%" y="-40%" width="150%" height="180%">
+      <feGaussianBlur stdDeviation="15"/>
+    </filter>
+    <!-- Text glow -->
+    <filter id="tg" x="-8%" y="-40%" width="116%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="b2"/>
+      <feMerge><feMergeNode in="b2"/><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="tgs" x="-5%" y="-30%" width="110%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="b1"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Film grain -->
+    <filter id="noise" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+
+    <radialGradient id="bg" cx="48%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#090d14"/>
+      <stop offset="100%" stop-color="#030406"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    @keyframes dr1{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+    @keyframes dr2{0%,100%{transform:translateY(0)}50%{transform:translateY(3px)}}
+    @keyframes dr3{0%,100%{transform:translate(0,0)}50%{transform:translate(3px,-2px)}}
+    .d1{animation:dr1 10s ease-in-out infinite}
+    .d2{animation:dr2 12s ease-in-out infinite}
+    .d3{animation:dr3 11s ease-in-out infinite}
+  </style>
+
+  <!-- Background -->
+  <rect width="800" height="150" fill="url(#bg)"/>
+
+  <!-- Large sweeping curved shapes -->
+  <!-- Deep sweep from bottom-left -->
+  <path d="M-80,150 C0,110 150,50 350,70 C550,90 700,30 880,60 L880,180 L-80,180 Z"
+        fill="#142840" filter="url(#bxl)" opacity=".25" class="d1"/>
+
+  <!-- Counter-sweep from top-right -->
+  <path d="M880,0 C780,40 620,100 440,75 C260,50 120,110 -80,80 L-80,-30 L880,-30 Z"
+        fill="#162d48" filter="url(#bxl)" opacity=".22" class="d2"/>
+
+  <!-- Mid accent sweep -->
+  <path d="M-50,90 C100,40 250,80 400,55 C550,30 680,70 850,45 L850,100 C680,120 550,85 400,105 C250,125 100,90 -50,130 Z"
+        fill="#1e3d62" filter="url(#blg)" opacity=".2" class="d3"/>
+
+  <!-- Brighter inner sweep -->
+  <path d="M-30,75 C120,50 280,85 420,58 C560,32 680,62 830,48 L830,88 C680,100 560,75 420,95 C280,115 120,82 -30,105 Z"
+        fill="#28507a" filter="url(#blg)" opacity=".15" class="d1"/>
+
+  <!-- Bright accent core -->
+  <path d="M100,68 C220,50 340,72 450,56 C560,40 660,58 750,48 L750,82 C660,90 560,74 450,88 C340,100 220,80 100,95 Z"
+        fill="#3568a0" filter="url(#bmd)" opacity=".12" class="d2"/>
+
+  <!-- Film grain -->
+  <rect width="800" height="150" filter="url(#noise)" opacity=".025"/>
+
+  <!-- Name -->
+  <text x="400" y="68" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="300" fill="#fff" letter-spacing="5" filter="url(#tg)">Alex Meza</text>
+
+  <!-- Title -->
+  <text x="400" y="98" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="300" fill="#fff" letter-spacing="3" opacity=".55" filter="url(#tgs)">Senior Software Engineer</text>
+</svg>
