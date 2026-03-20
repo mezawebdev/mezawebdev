@@ -4,7 +4,7 @@
 
 **Software crafter.** I like clean architecture, thoughtful UI, and building things that feel right.
 
-**Tools I'm into:** TypeScript, React, Vue, Next.js, Nuxt, PHP/Laravel
+**Tools I'm into:** TypeScript, React, Vue, Next.js, Nuxt, Python, PHP/Laravel
 
 **Currently exploring:** Agentic engineering, AI-augmented workflows, Claude Code
 
