@@ -6,6 +6,6 @@
 
 **Tools I'm into:** TypeScript, React, Vue, Next.js, Nuxt, Python, PHP/Laravel
 
-**Currently exploring:** Agentic engineering, AI-augmented workflows, Claude Code
+**Currently exploring:** Agentic engineering, Harness Engineering, AI-augmented workflows, Claude Code
 
 **Connect with me:** [LinkedIn](https://linkedin.com/in/mezawebdev) | mezawebdev@gmail.com
