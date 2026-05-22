@@ -6,9 +6,9 @@
 
 **Tools I'm into:** TypeScript, React, Vue, Next.js, Nuxt, Python, PHP/Laravel
 
-**Currently building:** 
-- 🛡️ [agent-harness-sdk](https://github.com/mezawebdev/agent-harness-sdk) — a Claude Code framework for building agent harnesses, with tools, checks, and guards for defining what agents can do, what they should avoid, and what they need to verify.
-
 **Currently exploring:** Agentic engineering, Harness Engineering, AI-augmented workflows, Claude Code
+
+**Active projects:** 
+- 🛡️ [agent-harness-sdk](https://github.com/mezawebdev/agent-harness-sdk) — a Claude Code framework for building agent harnesses, with tools, checks, and guards for defining what agents can do, what they should avoid, and what they need to verify.
 
 **Connect with me:** [LinkedIn](https://linkedin.com/in/mezawebdev) | mezawebdev@gmail.com
